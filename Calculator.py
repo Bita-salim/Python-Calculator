@@ -52,6 +52,5 @@ elif choice == "E" or choice == "e":
     nu2=int(input("enter your second number: "))
     remainder(nu1,nu2)
 
-  
 elif choice == "F" or choice == "f":
     print("bye")
